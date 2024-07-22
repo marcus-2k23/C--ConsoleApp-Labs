@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\_8829569_MidTerm\bin\Debug\net7.0\_8829569_MidTerm.exe
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\_8829569_MidTerm\bin\Debug\net7.0\_8829569_MidTerm.deps.json
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\_8829569_MidTerm\bin\Debug\net7.0\_8829569_MidTerm.runtimeconfig.json
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\_8829569_MidTerm\bin\Debug\net7.0\_8829569_MidTerm.dll
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\_8829569_MidTerm\bin\Debug\net7.0\_8829569_MidTerm.pdb
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\_8829569_MidTerm\obj\Debug\net7.0\_8829569_MidTerm.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\_8829569_MidTerm\obj\Debug\net7.0\_8829569_MidTerm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\_8829569_MidTerm\obj\Debug\net7.0\_8829569_MidTerm.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\_8829569_MidTerm\obj\Debug\net7.0\_8829569_MidTerm.AssemblyInfo.cs
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\_8829569_MidTerm\obj\Debug\net7.0\_8829569_MidTerm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\_8829569_MidTerm\obj\Debug\net7.0\_8829569_MidTerm.dll
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\_8829569_MidTerm\obj\Debug\net7.0\refint\_8829569_MidTerm.dll
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\_8829569_MidTerm\obj\Debug\net7.0\_8829569_MidTerm.pdb
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\_8829569_MidTerm\obj\Debug\net7.0\_8829569_MidTerm.genruntimeconfig.cache
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\_8829569_MidTerm\obj\Debug\net7.0\ref\_8829569_MidTerm.dll

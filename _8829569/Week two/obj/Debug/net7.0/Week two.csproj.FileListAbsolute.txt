@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\Week two\bin\Debug\net7.0\Week two.exe
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\Week two\bin\Debug\net7.0\Week two.deps.json
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\Week two\bin\Debug\net7.0\Week two.runtimeconfig.json
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\Week two\bin\Debug\net7.0\Week two.dll
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\Week two\bin\Debug\net7.0\Week two.pdb
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\Week two\obj\Debug\net7.0\Week two.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\Week two\obj\Debug\net7.0\Week two.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\Week two\obj\Debug\net7.0\Week two.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\Week two\obj\Debug\net7.0\Week two.AssemblyInfo.cs
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\Week two\obj\Debug\net7.0\Week two.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\Week two\obj\Debug\net7.0\Week two.dll
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\Week two\obj\Debug\net7.0\refint\Week two.dll
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\Week two\obj\Debug\net7.0\Week two.pdb
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\Week two\obj\Debug\net7.0\Week two.genruntimeconfig.cache
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\Week two\obj\Debug\net7.0\ref\Week two.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\_8829569_Assignment1\bin\Debug\net7.0\_8829569_Assignment1.exe
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\_8829569_Assignment1\bin\Debug\net7.0\_8829569_Assignment1.deps.json
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\_8829569_Assignment1\bin\Debug\net7.0\_8829569_Assignment1.runtimeconfig.json
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\_8829569_Assignment1\bin\Debug\net7.0\_8829569_Assignment1.dll
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\_8829569_Assignment1\bin\Debug\net7.0\_8829569_Assignment1.pdb
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\_8829569_Assignment1\obj\Debug\net7.0\_8829569_Assignment1.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\_8829569_Assignment1\obj\Debug\net7.0\_8829569_Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\_8829569_Assignment1\obj\Debug\net7.0\_8829569_Assignment1.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\_8829569_Assignment1\obj\Debug\net7.0\_8829569_Assignment1.AssemblyInfo.cs
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\_8829569_Assignment1\obj\Debug\net7.0\_8829569_Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\_8829569_Assignment1\obj\Debug\net7.0\_8829569_Assignment1.dll
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\_8829569_Assignment1\obj\Debug\net7.0\refint\_8829569_Assignment1.dll
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\_8829569_Assignment1\obj\Debug\net7.0\_8829569_Assignment1.pdb
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\_8829569_Assignment1\obj\Debug\net7.0\_8829569_Assignment1.genruntimeconfig.cache
+C:\Users\Admin\Documents\M7759\Harry PROG8145 Software Development Techniques\_8829569_Assignment1\obj\Debug\net7.0\ref\_8829569_Assignment1.dll

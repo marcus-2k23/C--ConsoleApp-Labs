@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\8829569_Q1_Plant_FE_v01\bin\Debug\net7.0\8829569_Q1_Plant_FE_v01.exe
+C:\Users\Admin\Desktop\8829569_Q1_Plant_FE_v01\bin\Debug\net7.0\8829569_Q1_Plant_FE_v01.deps.json
+C:\Users\Admin\Desktop\8829569_Q1_Plant_FE_v01\bin\Debug\net7.0\8829569_Q1_Plant_FE_v01.runtimeconfig.json
+C:\Users\Admin\Desktop\8829569_Q1_Plant_FE_v01\bin\Debug\net7.0\8829569_Q1_Plant_FE_v01.dll
+C:\Users\Admin\Desktop\8829569_Q1_Plant_FE_v01\bin\Debug\net7.0\8829569_Q1_Plant_FE_v01.pdb
+C:\Users\Admin\Desktop\8829569_Q1_Plant_FE_v01\obj\Debug\net7.0\8829569_Q1_Plant_FE_v01.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\8829569_Q1_Plant_FE_v01\obj\Debug\net7.0\8829569_Q1_Plant_FE_v01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\8829569_Q1_Plant_FE_v01\obj\Debug\net7.0\8829569_Q1_Plant_FE_v01.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\8829569_Q1_Plant_FE_v01\obj\Debug\net7.0\8829569_Q1_Plant_FE_v01.AssemblyInfo.cs
+C:\Users\Admin\Desktop\8829569_Q1_Plant_FE_v01\obj\Debug\net7.0\8829569_Q1_Plant_FE_v01.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\8829569_Q1_Plant_FE_v01\obj\Debug\net7.0\8829569_Q1_Plant_FE_v01.dll
+C:\Users\Admin\Desktop\8829569_Q1_Plant_FE_v01\obj\Debug\net7.0\refint\8829569_Q1_Plant_FE_v01.dll
+C:\Users\Admin\Desktop\8829569_Q1_Plant_FE_v01\obj\Debug\net7.0\8829569_Q1_Plant_FE_v01.pdb
+C:\Users\Admin\Desktop\8829569_Q1_Plant_FE_v01\obj\Debug\net7.0\8829569_Q1_Plant_FE_v01.genruntimeconfig.cache
+C:\Users\Admin\Desktop\8829569_Q1_Plant_FE_v01\obj\Debug\net7.0\ref\8829569_Q1_Plant_FE_v01.dll
